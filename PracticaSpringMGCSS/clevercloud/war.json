@@ -6,7 +6,7 @@
 	"deploy": {
 		"container":"TOMCAT8",
 		"war": [{
-			"file": "target/PracticaSpringMGCSS.war",
+			"file": "PracticaSpringMGCSS/target/.war",
 			"context": "/",
 			"port": 80
 		}]

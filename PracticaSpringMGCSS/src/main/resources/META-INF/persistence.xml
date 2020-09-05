@@ -10,9 +10,9 @@
     <!-- Definiremos las clases -->
     <properties>
         <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
-        <property name="javax.persistence.jdbc.url" value="jdbc:mysql://b72hox6yjwn2qtwseckm-mysql.services.clever-cloud.com:3306/b72hox6yjwn2qtwseckm" />
-        <property name="javax.persistence.jdbc.user" value="ugyd9hwjxd46dcnr" />
-        <property name="javax.persistence.jdbc.password" value="rMMP9n8JMFBOkZj3uffU" />
+        <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/springdb" />
+        <property name="javax.persistence.jdbc.user" value="acme-manager" />
+        <property name="javax.persistence.jdbc.password" value="ACME-M@n@ger-6874" />
         
         <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
         <property name="hibernate.hbm2ddl.auto" value="create" />
